@@ -1,8 +1,8 @@
-# how-is-milazzo-concept
+# "How is Milazzo?" Concept
 
 This week we came to Milazzo from all over Europe. [Daniel](https://github.com/dkastl) and [Martin](https://github.com/martinheidegger) came for the first time to this beautiful place!
 
-In our interviews with people from Milazzo we noticed that there is there are a lot of different understanding of the state of Milazzo.
+In our interviews with people from Milazzo we noticed that there are a lot of different views on the City of Milazzo.
 
 ## Concept
 
@@ -20,6 +20,6 @@ If this data is collected through sensors you can get a clear sense of the devel
 
 ## Proposal
 
-Consento can bring the experience of standardizing and organizing environmental sensor data. [Sensor Atlas](https://www.sensoratlas.com/), an open source tool that is compliant with the OSGI [Sensorthings](https://www.opengeospatial.org/standards/sensorthings) standard.
+Georepublic can contribute its experience in standardizing and organizing environmental sensor data as Open Data. [Sensor Atlas](https://www.sensoratlas.com/) is an Open Source project that is compliant with the OGC [Sensorthings](https://www.opengeospatial.org/standards/sensorthings) standard.
 
-We will help [members](https://github.com/ledger-milazzo/org#open-government) to connect sensors to a data storage and if more than a 100 sensors are collected we will help you with the visualization of this data in a homepage.
+We will help [members](https://github.com/ledger-milazzo/org#open-government) to connect sensors to a data storage. If more than a 100 sensors are collected we will help you with the visualization of this data in a homepage.
