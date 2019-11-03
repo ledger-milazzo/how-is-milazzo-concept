@@ -22,4 +22,4 @@ If this data is collected through sensors you can get a clear sense of the devel
 
 Consento can bring the experience of standardizing and organizing environmental sensor data. [Sensor Atlas](https://www.sensoratlas.com/), an open source tool that is compliant with the OSGI [Sensorthings](https://www.opengeospatial.org/standards/sensorthings) standard.
 
-We will help [members](https://github.com/ledger-milazzo/org#open-government) to connect sensors to a data storage and if more than a 100 sensors are collected we will help you with the visualization of this data in a homepage.
+We will help [members](https://github.com/ledger-milazzo/org#open-government) to connect sensors to a data storage and if more than a 30 sensors are established on different locations around the city we will help you with the visualization of this data in a homepage.
