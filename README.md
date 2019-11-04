@@ -18,6 +18,8 @@ If this data is collected through sensors you can get a clear sense of the devel
 
 <img src="https://user-images.githubusercontent.com/914122/68069979-2faffe80-fd68-11e9-85a2-a20ee01e0e58.png" width="40%">
 
+You can download the slides from our presentation [as `.pdf`](./presentation/20191031-Sensors for Milazzo.pdf) and [as `.pptx`](./presentation/20191031-Sensors for Milazzo.pdf).
+
 ## Proposal
 
 Consento can bring the experience of standardizing and organizing environmental sensor data. [Sensor Atlas](https://www.sensoratlas.com/), an open source tool that is compliant with the OSGI [Sensorthings](https://www.opengeospatial.org/standards/sensorthings) standard.
