@@ -20,6 +20,6 @@ If this data is collected through sensors you can get a clear sense of the devel
 
 ## Proposal
 
-Georepublic can contribute its experience in standardizing and organizing environmental sensor data as Open Data. [Sensor Atlas](https://www.sensoratlas.com/) is an Open Source project that is compliant with the OGC [Sensorthings](https://www.opengeospatial.org/standards/sensorthings) standard.
+[Georepublic](https://georepublic.info) - one of the companies behind [Consento](https://consento.org) - offers its experience in standardizing and organizing environmental sensor data as Open Data to you. We previously built [Sensor Atlas](https://www.sensoratlas.com/), which is a free and Open Source project that is compliant with the OGC [Sensorthings](https://www.opengeospatial.org/standards/sensorthings) standard.
 
 We will help [members](https://github.com/ledger-milazzo/org#open-government) to connect sensors to a data storage. If more than a 100 sensors are collected we will help you with the visualization of this data in a homepage.
