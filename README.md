@@ -18,8 +18,10 @@ If this data is collected through sensors you can get a clear sense of the devel
 
 <img src="https://user-images.githubusercontent.com/914122/68069979-2faffe80-fd68-11e9-85a2-a20ee01e0e58.png" width="40%">
 
+You can download the slides from our presentation [as `.pdf`](./presentation/20191031-Sensors%20for%20Milazzo.pdf) and [as `.pptx`](./presentation/20191031-Sensors%20for%20Milazzo.pdf).
+
 ## Proposal
 
 [Georepublic](https://georepublic.info) - one of the companies behind [Consento](https://consento.org) - offers its experience in standardizing and organizing environmental sensor data as Open Data to you. We previously built [Sensor Atlas](https://www.sensoratlas.com/), which is a free and Open Source project that is compliant with the OGC [Sensorthings](https://www.opengeospatial.org/standards/sensorthings) standard.
 
-We will help [members](https://github.com/ledger-milazzo/org#open-government) to connect sensors to a data storage. If more than a 100 sensors are collected we will help you with the visualization of this data in a homepage.
+We will help [members](https://github.com/ledger-milazzo/org#open-government) to connect sensors to a data storage and if more than a 30 sensors are established on different locations around the city we will help you with the visualization of this data in a homepage.
